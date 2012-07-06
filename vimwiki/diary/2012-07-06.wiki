@@ -56,4 +56,5 @@ test3
 - 3) git push
 - try to use a script to update
 - windows下的脚本有问题 Linux下暂时感觉正常
+- windows下的执行过脚本 需要手动启动bash然后push一下
 
