@@ -1,0 +1,13 @@
+= 专业必修 =
+- CS 203A | CS 220
+    - computer Achitect | synthesis of Digital System
+- CS 215 | CS 218
+    - Theory of computation | *Design and Analysis of Algorithm*
+- CS 201 | CS 202
+    - Compiler Construction | *Advanced Operating System*
+= 12FALL可选 =
+- CS 202 *Advanced Operating System*
+- CS 206 Testing & Verification Techniques
+- CS 218 *Design & Analysis of Algorithm*
+- CS 235 Data Mining Tchnique
+

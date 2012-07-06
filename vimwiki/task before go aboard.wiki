@@ -1,0 +1,8 @@
+- [] Todo list
+    - [ ] [[算法导论，包括代码实现]]
+	- [ ] 复习 网络 和操作系统
+	- [ ] 鸟哥的Linux私房菜
+	- [ ] primer c plus
+	- [ ] AI
+	- [ ] 求职相关
+	- [ ] Data Ming - concepts and Techniques
