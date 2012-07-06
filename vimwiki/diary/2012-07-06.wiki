@@ -50,6 +50,7 @@ test3
 = git =
 感觉很复杂的样子 搞了将近一下午 参考文档http://wiki.7color.org/git.html
 == git 同步步骤 ==
+- 0) git add .
 - 1) git commit -a
 - 2) git pull
 - 3) git push
