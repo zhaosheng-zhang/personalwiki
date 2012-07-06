@@ -50,5 +50,5 @@ test3
 git 同步步骤
 1) git commit -a
 2) git pull
-3) git pull
+3) git push
 
