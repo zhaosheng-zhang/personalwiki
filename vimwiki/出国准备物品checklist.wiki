@@ -8,3 +8,6 @@
 - [ ] iPad 修改本地字典
 - [ ] test in windows
 - [ ] test in windows 43
+- [ ] iPad 修改本地字典
+- [ ] test in windows
+- [ ] test in windows 3

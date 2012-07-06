@@ -40,16 +40,18 @@ test3
 
 14:56 
 - [] Todo list:
-- [ ] 多平台配置vimwiki 参考http://wiki.ktmud.com/tips/vim/ways-to-sync-vimwiki.html
-- [ ] 看看用不用网上重新找一个 vim的配置文件 重头做起
-- [ ] 怎么实现VIM多标签显示
-- [ ] vim中自带输入法的那个 看着很绚丽
+- [X] 多平台配置vimwiki 参考http://wiki.ktmud.com/tips/vim/ways-to-sync-vimwiki.html
+- [X] 看看用不用网上重新找一个 vim的配置文件 重头做起
+- [X] 怎么实现VIM多标签显示
+    - 使用:tabnew, :tabn, :tabp, gt, gT, :tabc, :tabonly 
+- [X] vim中自带输入法的那个 看着很绚丽
+    - http://vimim.googlecode.com/svn/vimim/vimim.html 
 
 = git =
 感觉很复杂的样子 搞了将近一下午 参考文档http://wiki.7color.org/git.html
-git 同步步骤
-1) git commit -a
-2) git pull
-3) git push
-try to use a script to update
+== git 同步步骤 ==
+- 1) git commit -a
+- 2) git pull
+- 3) git push
+- try to use a script to update
 
