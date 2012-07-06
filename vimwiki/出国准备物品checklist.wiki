@@ -7,4 +7,4 @@
 - [ ] 如果没买无线路由器 那么要找充电伴侣for iPad
 - [ ] iPad 修改本地字典
 - [ ] test in windows
-- [ ] test in windows 2
+- [ ] test in windows 3
