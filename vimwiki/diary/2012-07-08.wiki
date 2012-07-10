@@ -1,0 +1,5 @@
+Oh, today I haven't written a dairy.
+
+Hang out with Yue, Geng, Xue, Yichen today afternoon. Yibin tell me that I can rewrite a markdown extension by myself to compile a markdown-format file and convert it to html format. Try to learn it when I remind it.
+
+
