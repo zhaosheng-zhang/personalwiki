@@ -1,2 +1,4 @@
 test for new ubuntu
 and test for 中文输入是不是乱码
+test for *~
+again
